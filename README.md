@@ -21,6 +21,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-### 📊 GitHub Analytics
+<!-- ### 📊 GitHub Analytics
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mipgdev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipgdev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipgdev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
