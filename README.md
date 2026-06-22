@@ -1,6 +1,8 @@
 # Hi there! I'm María Palomo 👋
 
 ![Maria's GitHub Banner](https://github.com/mipgdev/mipgdev/blob/main/2.png?raw=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mipgdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariap.210700@gmail.com)
 
 ### 👩‍💻 About Me
 *   **Informatics Engineer | Web Development & APIs | Educator**
@@ -22,7 +24,3 @@
 ### 📊 GitHub Analytics
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mipgdev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipgdev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mipgdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariap.210700@gmail.com)
