@@ -19,9 +19,9 @@ jobs:
           # Options
           user: mipgdev
           template: classic
-          base: header, activity, repositories
+          base: activity, repositories
           base_hireable: yes
-          config_display: regular
+          config_display: columns
           config_timezone: America/Caracas
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
