@@ -22,6 +22,6 @@
 ![Unity](https://img.shields.io/badge/Unity-24292E?style=flat&logo=unity&logoColor=white)
 
 ### 📊 GitHub Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=mipgdev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/mipgdev)
-
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mipgdev&theme=dark)](https://github.com/mipgdev)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mipgdev/mipgdev/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
