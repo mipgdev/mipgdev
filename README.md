@@ -5,14 +5,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mipgdev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mariap.210700@gmail.com)
 
-### 👩‍💻 About Me
-* 🎓 **Informatics Engineer (Cum Laude):** I specialize in building scalable web solutions and writing clean, efficient code.
-* 🎮 **Educator & Developer:** Currently working as a programming teacher, translating complex programming logic into accessible concepts.
-* 🌱 **Currently Focusing On:** Expanding my frontend architecture skills with React, Vite, and modern JavaScript ecosystems. 
-* 🌍 **Location:** Based in Venezuela, actively seeking remote opportunities in the tech industry.
-* ✉️ **Let's Connect:** Feel free to reach out via LinkedIn or copy my email address: `mariap.210700@gmail.com`
+### About Me
+* **Informatics Engineer (Cum Laude):** I specialize in building scalable web solutions and writing clean, efficient code.
+* **Educator & Developer:** Currently working as a programming teacher, translating complex programming logic into accessible concepts.
+* **Currently Focusing On:** Expanding my frontend architecture skills with React, Vite, and modern JavaScript ecosystems. 
+* **Location:** Based in Venezuela, actively seeking remote opportunities in the tech industry.
+* **Let's Connect:** Feel free to reach out via LinkedIn or copy my email address: `mariap.210700@gmail.com`
 
-### 🛠️ Tech Stack
+### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-24292E?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-24292E?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-24292E?style=flat&logo=node.js&logoColor=43853D)
@@ -21,6 +21,8 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-24292E?style=flat&logo=microsoft-sql-server&logoColor=CC292B)
 ![Unity](https://img.shields.io/badge/Unity-24292E?style=flat&logo=unity&logoColor=white) 
 
-### 📊 GitHub Activity
-[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mipgdev&show_icons=true&theme=dark&hide_border=true)](https://github.com/mipgdev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipgdev&layout=compact&theme=dark&hide_border=true)](https://github.com/mipgdev)
+### GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mipgdev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/mipgdev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipgdev&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)](https://github.com/mipgdev)
