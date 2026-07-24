@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mipgdev
           template: classic
-          base: activity, repositories
+          base: header, activity, repositories
           base_hireable: yes
           config_display: columns
           config_timezone: America/Caracas
