@@ -21,4 +21,7 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-24292E?style=flat&logo=microsoft-sql-server&logoColor=CC292B)
 ![Unity](https://img.shields.io/badge/Unity-24292E?style=flat&logo=unity&logoColor=white)
 
-![Metrics](https://metrics.lecoq.io/mipgdev?template=classic&base.hireable=true&base.community=0&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FCaracas&config.display=columns)
+### 📊 GitHub Activity
+<div align="center">
+  <img src="github-metrics.svg" alt="Mis Métricas de GitHub" />
+</div>
