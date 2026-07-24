@@ -22,5 +22,5 @@
 ![Unity](https://img.shields.io/badge/Unity-24292E?style=flat&logo=unity&logoColor=white)
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Mis Métricas de GitHub" />
+  <img src="github-metrics.svg" alt="Mis Métricas de GitHub" width="100%"/>
 </div>
