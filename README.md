@@ -6,8 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mariap.210700@gmail.com)
 
 ### 👩‍💻 About Me
-* 🎓 **Informatics Engineer:** I specialize in building scalable web solutions and writing clean, efficient code.
-* 🎮 **Educator & Developer:** Currently working as a Robotics and Unity instructor, translating complex programming logic into accessible concepts.
+* 🎓 **Informatics Engineer (Cum Laude):** I specialize in building scalable web solutions and writing clean, efficient code.
+* 🎮 **Educator & Developer:** Currently working as a programming teacher, translating complex programming logic into accessible concepts.
 * 🌱 **Currently Focusing On:** Expanding my frontend architecture skills with React, Vite, and modern JavaScript ecosystems. 
 * 🌍 **Location:** Based in Venezuela, actively seeking remote opportunities in the tech industry.
 * ✉️ **Let's Connect:** Feel free to reach out via LinkedIn or copy my email address: `mariap.210700@gmail.com`
@@ -19,10 +19,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-24292E?style=flat&logo=express&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-24292E?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![MSSQL](https://img.shields.io/badge/MSSQL-24292E?style=flat&logo=microsoft-sql-server&logoColor=CC292B)
-![Unity](https://img.shields.io/badge/Unity-24292E?style=flat&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-24292E?style=flat&logo=unity&logoColor=white) 
 
 ### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mipgdev&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipgdev&layout=compact&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff" height="150" alt="Top Languages" />
-</div>
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mipgdev&show_icons=true&theme=dark&hide_border=true)](https://github.com/mipgdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipgdev&layout=compact&theme=dark&hide_border=true)](https://github.com/mipgdev)
