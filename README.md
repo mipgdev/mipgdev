@@ -23,5 +23,5 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mipgdev/mipgdev/main/github-metrics.svg" alt="Metrics" width="100%">
+  
 </div>
