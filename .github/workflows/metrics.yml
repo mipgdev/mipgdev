@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Actualiza la imagen cada 24 horas
   schedule: [{cron: "0 0 * * *"}]
-  # Te permite ejecutarlo manualmente
   workflow_dispatch:
-  # Actualiza si haces un push al repositorio
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -17,23 +14,24 @@ jobs:
           template: classic
           base: header, repositories
           config_timezone: America/Caracas
-          # Diseño oscuro minimalista
           config_theme: dark
           
-          # Plugin 1: Lenguajes
+          # Lenguajes
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
           
-          # Plugin 2: Isocalendar (Gráfico de calor 3D)
+          # Gráfico 3D de actividad
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           
-          # Plugin 3: Actividad reciente
+          # Líneas de código escritas
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          
+          # Actividad reciente
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          
-          # Plugin 4: Proyectos
-          plugin_projects: yes
-          plugin_projects_limit: 4
